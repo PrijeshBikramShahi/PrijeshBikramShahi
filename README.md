@@ -1,6 +1,6 @@
 # prizesh_bs
 [![MasterHead](https://imgs.search.brave.com/LlMR_T-61nk9NF_gt89AEbSsolYGYV2NxSpM5nG2JBA/rs:fit:900:400:1/g:ce/aHR0cHM6Ly93d3cu/c3dpZnRlbWVudC5m/ci93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNC9naXRodWIt/YmFubmVyLnBuZw)](https://prizesh-bs.io)
-<h1 align="center">Hi 👋, I'm Prijesh Bikram Shahi</h1>
+<h1 align="center">'ello mate! I'm Prijesh Bikram Shahi</h1>
 <h3 align="center">An aspiring Software Developer from Nepal.</h3>
 <img align="right" alt="Coding" width="180" src="https://imgs.search.brave.com/NEvhomzCfu4AhtvLeTrcyPxG6ASt7cVHlgtWPd4G0U4/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzE4MDM2/Nzgvc2NyZWVuc2hv/dHMvMzY1MjgyNC8w/MC1pbXAtLTA0YW5p/bWF0aW9uXzEuZ2lm.gif">
 
