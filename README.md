@@ -1,4 +1,4 @@
-<h1 align="center">'ello mate! I'm'm Prijesh Bikram Shahi</h1>
+<h1 align="center">'ello mate! I'm Prijesh Bikram Shahi</h1>
 <h3 align="center">An aspiring Software Developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prijeshbikramshahi&label=Profile%20views&color=0e75b6&style=flat" alt="prijeshbikramshahi" /> </p>
