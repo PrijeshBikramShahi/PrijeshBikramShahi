@@ -1,6 +1,6 @@
 <h1 align="center">'ello mate! I'm Prijesh Bikram Shahi</h1>
 <h3 align="center">An aspiring Software Developer from Nepal.</h3>
-
+<img align="right" alt="Coding" width="180" src="https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946_960_720.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prijeshbikramshahi&label=Profile%20views&color=0e75b6&style=flat" alt="prijeshbikramshahi" /> </p>
 
 - 🌱 I’m currently learning **App Development in Flutter**
