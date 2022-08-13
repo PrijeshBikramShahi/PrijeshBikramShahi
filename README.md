@@ -7,16 +7,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/prizesh_bshahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prizesh_bshahi" height="30" width="40" /></a>
+<a href="https://codepen.io/mewnywbw-the-sans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="prizesh_bshahi" height="30" width="40" /></a>
 <a href="https://twitter.com/shahi_prijesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahi_prijesh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prijesh-bikram-shahi-7355b7233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prijesh bikram shahi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/runtime_terror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="runtime_terror" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19641044/runtime-terror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="runtime_terror" height="30" width="40" /></a>
 <a href="https://codesandbox.com/prizesh_bshahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="prizesh_bshahi" height="30" width="40" /></a>
-<a href="https://kaggle.com/prizesh_bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prizesh_bs" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/prizesbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prizesh_bs" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100051588276925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="प्रिजेश विक्रम शाही" height="30" width="40" /></a>
 <a href="https://instagram.com/that_thakuri_guy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="that_thakuri_guy69" height="30" width="40" /></a>
-<a href="https://hashnode.com/@prijeshbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prijeshbs" height="30" width="40" /></a>
-<a href="https://medium.com/@prizesh_bshahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prizesh_bshahi" height="30" width="40" /></a>
+<a href="[https://hashnode.com/@prijeshbs](https://hashnode.com/@prizeshBS)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prijeshbs" height="30" width="40" /></a>
+<a href="https://medium.com/@prijeshshahi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prizesh_bshahi" height="30" width="40" /></a>
 <a href="https://discord.gg/#6140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6140" height="30" width="40" /></a>
 </p>
 
