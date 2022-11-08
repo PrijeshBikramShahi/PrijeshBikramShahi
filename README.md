@@ -1,5 +1,5 @@
 #prizes_bs
-[![MasterHead](https://cdn.pixabay.com/photo/2017/10/03/17/53/nature-2813487_960_720.jpg)](https://prizesh-bs.io)
+
 <h1 align="center">'ello mate! I'm Prijesh Bikram Shahi</h1>
 <h3 align="center">An aspiring Software Developer from Nepal.</h3>
 <img align="right" alt="Coding" width="180" src="https://cdn.pixabay.com/photo/2014/06/13/00/16/figure-367946_960_720.png">
