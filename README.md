@@ -2,12 +2,13 @@
 
 # PRIJESH BIKRAM SHAHI
 
-### Software Engineer · AI · Cloud · Full-Stack Systems
+### Software Developer · Full-Stack & AI
 
-Building **AI-powered applications, cloud-native systems, and developer-focused software.**
+I build connected applications, AI tools, and the systems behind them.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prijeshbikramshahi.com.np-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://prijeshbikramshahi.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prijesh_Bikram_Shahi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prijeshbikramshahi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-D97706?style=flat-square&logo=googlechrome&logoColor=white)](https://prijeshbikramshahi.com.np)
+[![Resume](https://img.shields.io/badge/Resume-View_online-262626?style=flat-square&logo=readme&logoColor=white)](https://prijeshbikramshahi.com.np/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prijeshbikramshahi/)
 [![GitHub](https://img.shields.io/badge/GitHub-PrijeshBikramShahi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PrijeshBikramShahi)
 
 </div>
@@ -16,102 +17,58 @@ Building **AI-powered applications, cloud-native systems, and developer-focused 
 
 ## About
 
-I'm a **Software Engineer** interested in building reliable software across the stack — from user-facing applications and APIs to cloud infrastructure and intelligent systems.
+I'm a software developer based in Kathmandu, Nepal. My foundation is mobile and full-stack development, and I’m taking it into AI applications and cloud systems with equal care for the interface and the engineering behind it.
 
-My current focus is on the intersection of:
+Recent work includes local-first AI tools, durable agent workflows, real-time collaborative software, an exam-preparation platform with more than 50 screens, and secure commerce flows with a 99%+ transaction-completion rate.
 
-- **AI & LLM Engineering**
-- **Full-Stack Development**
-- **Cloud & Distributed Systems**
-- **Developer Tooling**
-- **Secure Software & Systems Engineering**
+I care about clear product decisions, secure boundaries, recoverable systems, and code the next developer can understand.
 
-I enjoy understanding how systems work beneath the abstraction and turning that understanding into practical software.
+## How I build
 
----
-
-## What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### AI Systems
-
-LLM applications, RAG pipelines, vector search, embeddings, AI agents, and intelligent automation.
-
-</td>
-<td width="50%">
-
-### Cloud Systems
-
-Cloud-native applications, containerized services, APIs, CI/CD, observability, and scalable backend architecture.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Developer Tools
-
-Real-time applications, collaborative systems, developer platforms, and tools that improve software workflows.
-
-</td>
-<td width="50%">
-
-### Secure Software
-
-Authentication, authorization, cryptography, secure storage, and security-conscious system design.
-
-</td>
-</tr>
-</table>
+| Interface | Intelligence | Infrastructure |
+| --- | --- | --- |
+| Clear, responsive experiences built around the person using them. | Useful AI with sources, boundaries, and visible reasoning paths. | Systems that can be deployed, observed, recovered, and improved. |
+| TypeScript · React · Next.js · Flutter · Dart | Python · LangGraph · LLMs · RAG · Vector databases · MCP | Node.js · FastAPI · PostgreSQL · Docker · AWS · GCP · CI/CD |
 
 ---
 
-## Selected Work
+## Selected work
 
-### CodeRoom
+### [Loomrail](https://prijeshbikramshahi.com.np/work/loomrail)
 
-**Real-time collaborative code editor**
+**Visual AI workflow automation · Local MVP**
 
-A collaborative development environment built around operational transformation, WebSocket synchronization, presence, persistent documents, and containerized infrastructure.
+A visual workflow workspace with bounded AI agents, durable runs, versioned knowledge, isolated evaluations, and human approval before records change.
 
-**Stack:**  
-`Next.js` `React` `Node.js` `Express` `WebSockets` `Redis` `MongoDB` `Docker`
+- Built with TypeScript, React Flow, Fastify, SQLite, and OpenRouter.
+- Verified with 131 passing tests and a real model run through the approval boundary.
+- Preserves immutable workflow versions, checkpointed execution, and exact proposal revisions.
 
-→ [View Repository](https://github.com/PrijeshBikramShahi/coderoom)
+### [ayeai](https://prijeshbikramshahi.com.np/work/ayeai)
 
----
+**Local-first AI project review · v0.1 complete**
 
-### Gopya Vault
+A local workspace for inspecting registered projects and reviewing source-bound patch proposals without giving the model authority to modify files or execute commands.
 
-**Secure encrypted password vault library**
+- Built with Node.js, JavaScript, SQLite, and OpenRouter.
+- Verified with 130 passing tests and a recorded offline workflow.
+- Keeps source sharing explicit and proposals tied to exact content hashes.
 
-A Rust-based password vault focused on authenticated encryption, password-based key derivation, secure memory handling, and persistent local storage.
+### [Coderoom](https://prijeshbikramshahi.com.np/work/coderoom)
 
-**Stack:**  
-`Rust` `ChaCha20-Poly1305` `PBKDF2` `SQLite` `FFI`
+**Real-time collaborative code editor · Deployed**
 
-→ [View Repository](https://github.com/PrijeshBikramShahi/gopya-backend)
+A collaborative editor with shared editing, live cursor presence, and persistent sessions.
 
----
+- Built with Next.js, Node.js, WebSockets, Redis, MongoDB, and Docker.
+- Uses a custom Operational Transformation engine to reconcile concurrent edits.
+- Separates fast-changing presence data from persistent session state.
 
-### Khoj
-
-**Multi-stop route optimization application**
-
-A Flutter application using OpenStreetMap and OSRM to provide map visualization, routing, and multi-stop route optimization.
-
-**Stack:**  
-`Flutter` `Dart` `OpenStreetMap` `OSRM`
-
-→ [View Repository](https://github.com/PrijeshBikramShahi/khoj-app)
+[Explore all projects →](https://prijeshbikramshahi.com.np/#projects)
 
 ---
 
-## Technical Stack
+## Technical toolkit
 
 ### Languages
 
@@ -119,74 +76,72 @@ A Flutter application using OpenStreetMap and OSRM to provide map visualization,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frontend & Mobile
+### Application development
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Backend & Data
+### Data, AI & delivery
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Cloud & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-### AI & Data Engineering
 
-`LLMs` · `RAG` · `Embeddings` · `Vector Search` · `AI Agents` · `Machine Learning`
+`LLMs` · `RAG` · `LangGraph` · `Vector databases` · `Agent workflows`
 
 ---
 
 ## Experience
 
-### Application Support Engineer · Zyotis Guru
+### Application Support Engineer · ZyotisGuru Pvt. Ltd.
 
-**Feb 2026 – Present**
+**Feb 2026 – Aug 2026**
 
-Working across application maintenance, debugging, production issue resolution, and feature development.
+Supported production features across frontend, backend, REST APIs, authentication, and application data.
 
-### Mobile Developer Intern · F.A.C.T. Nepal
+### Mobile App Developer · Prepolic
+
+**Dec 2025 – 2026**
+
+Delivered a 50+ screen exam-preparation platform with secure authentication, subscriptions, and real-time notifications.
+
+### Full-Stack Developer Intern · F.A.C.T. Nepal
 
 **Aug 2025 – Jan 2026**
 
-Developed cross-platform mobile applications using Flutter and Dart, integrating APIs, backend services, state management, and application workflows.
+Built features across client, API, and backend layers.
+
+### Flutter Developer · WhiteMarketNepal
+
+**May 2025 – Oct 2025**
+
+Shipped a modular e-commerce app with secure authentication and payment workflows.
 
 ---
 
-## Current Focus
+## Current direction
 
 ```text
-AI Engineering        → RAG · Agents · LLM Applications
-Cloud Engineering     → AWS · Containers · Distributed Systems
-Backend Engineering   → APIs · Architecture · Real-Time Systems
-Security               → Secure Systems · Cryptography · App Security
+Foundation       → Flutter products · State · Navigation · Offline workflows
+Expanded         → APIs · Authentication · Real-time collaboration · Data
+Learning deeply  → RAG · Agent workflows · Model gateways · Evaluation
+Now               → Deployable systems · Observability · CI/CD · Recovery
 ```
-
----
-
-## Beyond the Code
-
-I like working on problems where software engineering meets **systems thinking** — understanding the trade-offs behind architecture, performance, reliability, and security rather than treating technologies as isolated tools.
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+### Let’s build something useful.
 
 [Portfolio](https://prijeshbikramshahi.com.np) · [LinkedIn](https://www.linkedin.com/in/prijeshbikramshahi/) · [GitHub](https://github.com/PrijeshBikramShahi)
 
