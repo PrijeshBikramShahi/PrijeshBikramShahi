@@ -19,7 +19,8 @@ I build connected applications, AI tools, and the systems behind them.
 
 I'm a software developer based in Kathmandu, Nepal. My foundation is mobile and full-stack development, and I’m taking it into AI applications and cloud systems with equal care for the interface and the engineering behind it.
 
-Recent work includes local-first AI tools, durable agent workflows, real-time collaborative software, an exam-preparation platform with more than 50 screens, and secure commerce flows with a 99%+ transaction-completion rate.
+Recent work includes local-first developer tools, durable agent workflows,
+client collaboration software, real-time editing, and focused mobile products.
 
 I care about clear product decisions, secure boundaries, recoverable systems, and code the next developer can understand.
 
@@ -34,35 +35,50 @@ I care about clear product decisions, secure boundaries, recoverable systems, an
 
 ## Selected work
 
-### [Loomrail](https://prijeshbikramshahi.com.np/work/loomrail)
+### [Stow](https://github.com/PrijeshBikramShahi/stow)
 
-**Visual AI workflow automation · Local MVP**
+**Local-first workspace manager for Git repositories**
 
-A visual workflow workspace with bounded AI agents, durable runs, versioned knowledge, isolated evaluations, and human approval before records change.
+Stow turns a folder full of repositories into one calm desktop workspace. It
+discovers local projects, shows repository health and branch state, and makes
+clone, fetch, pull, push, and upstream setup explicit and reviewable.
 
-- Built with TypeScript, React Flow, Fastify, SQLite, and OpenRouter.
-- Verified with 131 passing tests and a real model run through the approval boundary.
-- Preserves immutable workflow versions, checkpointed execution, and exact proposal revisions.
+### [Loomrail](https://github.com/PrijeshBikramShahi/loomrail)
 
-### [ayeai](https://prijeshbikramshahi.com.np/work/ayeai)
+**Inspectable workflows for bounded AI agents**
 
-**Local-first AI project review · v0.1 complete**
+Loomrail is a local workspace for composing agent workflows, running them
+durably, and reviewing proposed changes before they affect records. Versions,
+checkpoints, and approval history keep every run understandable.
 
-A local workspace for inspecting registered projects and reviewing source-bound patch proposals without giving the model authority to modify files or execute commands.
+### [Accord](https://github.com/PrijeshBikramShahi/accord)
 
-- Built with Node.js, JavaScript, SQLite, and OpenRouter.
-- Verified with 130 passing tests and a recorded offline workflow.
-- Keeps source sharing explicit and proposals tied to exact content hashes.
+**A clearer review and approval loop for client work**
 
-### [Coderoom](https://prijeshbikramshahi.com.np/work/coderoom)
+Accord gives clients and delivery teams one place to agree on scope, review
+deliverables, leave feedback, and record approvals against exact versions.
 
-**Real-time collaborative code editor · Deployed**
+### [CodeRoom](https://github.com/PrijeshBikramShahi/coderoom)
 
-A collaborative editor with shared editing, live cursor presence, and persistent sessions.
+**Real-time collaborative code editing**
 
-- Built with Next.js, Node.js, WebSockets, Redis, MongoDB, and Docker.
-- Uses a custom Operational Transformation engine to reconcile concurrent edits.
-- Separates fast-changing presence data from persistent session state.
+CodeRoom explores shared editing with optimistic local updates, live presence,
+reconnection, and a custom Operational Transform engine for concurrent changes.
+
+### [Iron Log](https://github.com/PrijeshBikramShahi/ironlog)
+
+**A private fitness journal that stays on the device**
+
+Iron Log tracks workouts, nutrition, measurements, and progress without an
+account or application backend. Data stays in the browser and can be exported
+as JSON.
+
+### [Khoj](https://github.com/PrijeshBikramShahi/khoj-app)
+
+**Multi-stop route planning with open map services**
+
+Khoj is a Flutter route planner for turning a list of places into an optimized
+trip using OpenStreetMap, Nominatim, and OSRM.
 
 [Explore all projects →](https://prijeshbikramshahi.com.np/#projects)
 
@@ -128,14 +144,12 @@ Shipped a modular e-commerce app with secure authentication and payment workflow
 
 ---
 
-## Current direction
+## What I value
 
-```text
-Foundation       → Flutter products · State · Navigation · Offline workflows
-Expanded         → APIs · Authentication · Real-time collaboration · Data
-Learning deeply  → RAG · Agent workflows · Model gateways · Evaluation
-Now               → Deployable systems · Observability · CI/CD · Recovery
-```
+I like products with a clear purpose and visible boundaries. That usually means
+keeping important data local where it makes sense, making automated actions
+inspectable, testing the behavior users depend on, and documenting limitations
+as carefully as features.
 
 ---
 
