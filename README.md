@@ -27,27 +27,11 @@
 <img src="./assets/06-principles.svg" alt="Values: thoughtful UX, clear boundaries, recoverable actions and documentation" width="100%" />
 </div>
 
-<img src="./assets/07-footer.svg" alt="Portfolio, resume, LinkedIn and GitHub links below" width="100%" />
+<img src="./assets/07-footer.svg" alt="Find me elsewhere" width="100%" />
 
-<p align="center"><a href="https://prijeshbikramshahi.com.np">Portfolio</a> &nbsp;·&nbsp; <a href="https://prijeshbikramshahi.com.np/resume">Resume</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/prijeshbikramshahi/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/PrijeshBikramShahi">GitHub</a></p>
-
-<details>
-<summary>Text version & project links</summary>
-
-I’m **Prijesh Bikram Shahi**, a full-stack developer based in Kathmandu, Nepal. My work spans web and mobile applications, collaborative software, AI workflows, and local-first desktop tooling.
-
-**Selected projects**
-
-- [Stow](https://github.com/PrijeshBikramShahi/stow) — Local-first Git workspace. Safe repository workflows, explicit review, and durable operations.
-- [Loomrail](https://github.com/PrijeshBikramShahi/loomrail) — Inspectable agent execution. Versioned workflows, checkpoints, and human approval boundaries.
-- [Coderoom](https://github.com/PrijeshBikramShahi/coderoom) — Collaborative code editing. Concurrent editing with an Operational Transform engine.
-- [Accord](https://github.com/PrijeshBikramShahi/accord) — Client work, clearly approved. Versioned deliverables, scoped feedback, and traceable approvals.
-- [Topside](https://github.com/PrijeshBikramShahi/topside) — Adaptive macOS island and system controls.
-- [Widgion](https://github.com/PrijeshBikramShahi/mac-widget-platform) — Desktop widgets and system integrations.
-- [Khoj](https://github.com/PrijeshBikramShahi/khoj-app) — Flutter route planning with open map services.
-
-**Exploring:** Oryn (agentic browser), Aevro (developer workspace), Dovra (macOS Dock alternative). These are works in progress, not released products.
-
-**Focus:** TypeScript, React, Next.js, Node.js, Python, Flutter, PostgreSQL, AI workflows, and desktop systems.
-
-</details>
+<p align="center">
+  <a href="https://prijeshbikramshahi.com.np" title="Portfolio"><img src="./assets/icon-portfolio.svg" alt="Portfolio" width="48" /></a>&nbsp;&nbsp;
+  <a href="https://prijeshbikramshahi.com.np/resume" title="Résumé"><img src="./assets/icon-resume.svg" alt="Résumé" width="48" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prijeshbikramshahi/" title="LinkedIn"><img src="./assets/icon-linkedin.svg" alt="LinkedIn" width="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/PrijeshBikramShahi" title="GitHub"><img src="./assets/icon-github.svg" alt="GitHub" width="48" /></a>
+</p>
