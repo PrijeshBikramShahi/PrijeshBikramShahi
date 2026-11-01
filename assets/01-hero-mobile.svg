@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="280" viewBox="0 0 420 280" role="img" aria-labelledby="title desc">
+  <title id="title">prijesh. Independent software developer</title>
+  <desc id="desc">Building products across mobile, web, and desktop.</desc>
+  <style>
+    .panel { fill: #141d25; stroke: #3b4b58; }
+    .rule { stroke: #3b4b58; }
+    .text { fill: #edf3f4; }
+    .muted { fill: #b2c0ca; }
+    .accent { fill: #8dceae; }
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .mono { font-family: Menlo, Consolas, monospace; }
+    @media (prefers-color-scheme: light) {
+      .panel { fill: #f6f8fa; stroke: #c5cdd5; }
+      .rule { stroke: #c5cdd5; }
+      .text { fill: #1f2933; }
+      .muted { fill: #4b5c69; }
+      .accent { fill: #286448; }
+    }
+  </style>
+  <rect x="1" y="1" width="418" height="278" rx="16" class="panel"/>
+  <text x="24" y="34" class="muted mono" font-size="15" font-weight="400">~/prijesh · zsh</text><path d="M24 52 H396" class="rule"/><text x="24" y="88" class="accent mono" font-size="16" font-weight="400">$ whoami</text><text x="22" y="156" class="text" font-size="66" font-weight="700">prijesh</text><text x="242" y="156" class="accent" font-size="66" font-weight="700">.</text><text x="24" y="193" class="muted" font-size="15" font-weight="600">INDEPENDENT SOFTWARE DEVELOPER</text><text x="24" y="230" class="text" font-size="21" font-weight="400">Building products across</text><text x="24" y="258" class="text" font-size="21" font-weight="400">mobile, web, and desktop.</text>
+</svg>

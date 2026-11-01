@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="106" viewBox="0 0 420 106" role="img" aria-labelledby="title desc">
+  <title id="title">Topside</title>
+  <desc id="desc">NATIVE macOS / SYSTEM INTEGRATION</desc>
+  <style>
+    .panel { fill: #141d25; stroke: #3b4b58; }
+    .rule { stroke: #3b4b58; }
+    .text { fill: #edf3f4; }
+    .muted { fill: #b2c0ca; }
+    .accent { fill: #8dceae; }
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .mono { font-family: Menlo, Consolas, monospace; }
+    @media (prefers-color-scheme: light) {
+      .panel { fill: #f6f8fa; stroke: #c5cdd5; }
+      .rule { stroke: #c5cdd5; }
+      .text { fill: #1f2933; }
+      .muted { fill: #4b5c69; }
+      .accent { fill: #286448; }
+    }
+  </style>
+  <rect x="1" y="1" width="418" height="104" rx="16" class="panel"/>
+  <text x="25" y="49" class="text" font-size="35" font-weight="700">topside.</text><text x="26" y="81" class="accent mono" font-size="13" font-weight="400">NATIVE macOS / SYSTEM INTEGRATION</text>
+</svg>
